@@ -1,4 +1,5 @@
-p {
-	background-color: rgb(125, 255, 203);
-	color: white;
+b {
+	background-color: rgb(255, 234, 0);
+	color: rgb(0, 0, 0);
+	font-size: 200%;
 }
